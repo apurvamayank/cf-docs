@@ -29,13 +29,5 @@ Clone the BOSH and bosh-release repositories using git:
 
 <pre class="terminal">
 $ git clone git@github.com:cloudfoundry/bosh.git
-$ git clone git@github.com:cloudfoundry/bosh-release.git
-</pre>
-
-Get release 11 from a branch of bosh-release (we are using an old commit during transition to new release functionality):
-
-<pre class="terminal">
-$ cd bosh-release
-$ git checkout 9e0b649da80a563ba64229069299c57f72ab54ad
 </pre>
 
